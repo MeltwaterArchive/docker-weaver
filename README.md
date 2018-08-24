@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/meltwater/docker-weaver.svg)](./LICENSE.txt)
 [![Docker Build Status](https://img.shields.io/docker/build/meltwater/weaver.svg)](https://hub.docker.com/r/meltwater/weaver/)
 
-Custom build of [Athena weaver].
+Custom Docker build of [Athena weaver].
 
 [Athena weaver]: https://github.com/arachnys/athenapdf
 
